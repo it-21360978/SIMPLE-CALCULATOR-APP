@@ -4,10 +4,10 @@ This is a simple calculator app built using Node.js and Express.js. It performs 
 
 ## *Getting Started
 To get started with this project, follow these steps:
-
+<ul>
 1.Clone this repository to your local machine
 2.Navigate to the project directory in your terminal
-3.Run npm install to install the project dependencies
+3.Run npm install to install the project dependencies</ul>
 
 ## Deployment
 
